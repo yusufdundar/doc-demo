@@ -3,4 +3,4 @@ nav:
     - Anasayfa: index.md
     - Hakkında: about.md
 theme: readthedocs
-repo_url: https://github.com/yusufdundar/repositories
+repo_url: https://github.com/yusufdundar/doc-demo
