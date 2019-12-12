@@ -1,0 +1,6 @@
+site_name: Living Docs
+nav:
+    - Anasayfa: index.md
+    - Hakkında: about.md
+theme: readthedocs
+repo_url: https://github.com/yusufdundar/repositories
